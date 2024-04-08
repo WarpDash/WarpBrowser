@@ -1,13 +1,13 @@
 [
   {
-    "name": "Geometry Dash",
-    "link": "https://store.steampowered.com/app/322170/Geometry_Dash/",
-    "author": "RobTop",
-    "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
+    "name": "Warp Dash",
+    "link": "https://sites.google.com/view/warpdash/home?authuser=2",
+    "author": "taffat",
+    "authorLink": "https://www.youtube.com/channel/UCkVL4DZhutXt2Ur3UomGPwQ",
     "id": "",
-    "endpoint": "http://www.boomlings.com/database/",
+    "endpoint": "http://warpergdps.ncservers.xyz//",
     "timestampSuffix": " ago",
-    "demonList": "https://pointercrate.com/",
+    "demonList": "https://sites.google.com/view/warpgdps-list/demonlist?authuser=2",
     "downloadsDisabled": true,
     "pinned": true
   },

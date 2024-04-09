@@ -1,14 +1,13 @@
 [
   {
     "name": "Warp Dash",
-    "link": "https://sites.google.com/view/warpdash/home?authuser=2",
+    "link": "https://sites.google.com/view/warpdash/home?authuser=2", 
     "author": "taffat",
-    "authorLink": "https://www.youtube.com/channel/UCkVL4DZhutXt2Ur3UomGPwQ",
+    "authorLink": "https://www.youtube.com/channel/UCPTx7KPChe19vn-FocKVHXA",
     "id": "",
     "endpoint": "http://warpergdps.ncservers.xyz//",
-    "timestampSuffix": " ago",
-    "demonList": "https://sites.google.com/view/warpgdps-list/demonlist?authuser=2",
-    "downloadsDisabled": true,
+    "timestampSuffix": "ago",
+    "demonList": "{Add Your Demonlist}",
     "pinned": true
   },
   
